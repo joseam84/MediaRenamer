@@ -1,0 +1,2 @@
+/Users/joseam/RiderProjects/MediaRenamer/publish/MediaRenamer.pdb
+/Users/joseam/RiderProjects/MediaRenamer/publish/MediaRenamer

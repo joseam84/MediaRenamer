@@ -1,0 +1,14 @@
+/Users/joseam/RiderProjects/MediaRenamer/MediaRenamer/bin/Debug/net8.0/MediaRenamer
+/Users/joseam/RiderProjects/MediaRenamer/MediaRenamer/bin/Debug/net8.0/MediaRenamer.deps.json
+/Users/joseam/RiderProjects/MediaRenamer/MediaRenamer/bin/Debug/net8.0/MediaRenamer.runtimeconfig.json
+/Users/joseam/RiderProjects/MediaRenamer/MediaRenamer/bin/Debug/net8.0/MediaRenamer.dll
+/Users/joseam/RiderProjects/MediaRenamer/MediaRenamer/bin/Debug/net8.0/MediaRenamer.pdb
+/Users/joseam/RiderProjects/MediaRenamer/MediaRenamer/obj/Debug/net8.0/MediaRenamer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseam/RiderProjects/MediaRenamer/MediaRenamer/obj/Debug/net8.0/MediaRenamer.AssemblyInfoInputs.cache
+/Users/joseam/RiderProjects/MediaRenamer/MediaRenamer/obj/Debug/net8.0/MediaRenamer.AssemblyInfo.cs
+/Users/joseam/RiderProjects/MediaRenamer/MediaRenamer/obj/Debug/net8.0/MediaRenamer.csproj.CoreCompileInputs.cache
+/Users/joseam/RiderProjects/MediaRenamer/MediaRenamer/obj/Debug/net8.0/MediaRenamer.dll
+/Users/joseam/RiderProjects/MediaRenamer/MediaRenamer/obj/Debug/net8.0/refint/MediaRenamer.dll
+/Users/joseam/RiderProjects/MediaRenamer/MediaRenamer/obj/Debug/net8.0/MediaRenamer.pdb
+/Users/joseam/RiderProjects/MediaRenamer/MediaRenamer/obj/Debug/net8.0/MediaRenamer.genruntimeconfig.cache
+/Users/joseam/RiderProjects/MediaRenamer/MediaRenamer/obj/Debug/net8.0/ref/MediaRenamer.dll
